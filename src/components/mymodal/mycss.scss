@@ -1,0 +1,19 @@
+
+.top {
+  background-color: rgba(119, 116, 116, 0.46);
+  height:20%;
+}
+.content {
+    background-color: rgba(53, 34, 221, 0.46);
+    height:auto;
+    overflow-y: scroll;
+    max-height: calc(100% - 120px)
+}
+.footer{
+  background-color: #A3CFE4;
+  height:50px;
+}
+.buttons{
+    background-color:gray;
+    min-height: 20px;
+}
